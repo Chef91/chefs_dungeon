@@ -11854,5 +11854,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.custom-bg {
+  background-color: #292929;
+}
 
-/*# sourceMappingURL=index.css.map */
+/*# sourceMappingURL=all-page.css.map */
