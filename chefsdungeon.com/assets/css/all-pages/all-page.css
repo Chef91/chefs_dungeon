@@ -4276,7 +4276,7 @@ textarea.form-control-lg {
 .navbar-dark,
 .navbar[data-bs-theme=dark] {
   --bs-navbar-color: rgba(255, 255, 255, 0.55);
-  --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
+  --bs-navbar-hover-color: #292929;
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
   --bs-navbar-active-color: #fff;
   --bs-navbar-brand-color: #fff;
@@ -11865,6 +11865,10 @@ textarea.form-control-lg {
   color: #ff0000;
   font-weight: 400;
   font-size: 1.2rem;
+}
+.custom-bg li a:hover {
+  box-shadow: 5px 5px 5px #ff0000;
+  border-radius: 10px;
 }
 
 .nav-logo {
