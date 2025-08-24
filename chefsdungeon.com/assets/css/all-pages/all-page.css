@@ -11856,18 +11856,22 @@ textarea.form-control-lg {
 }
 .custom-bg {
   background-color: #292929;
-  box-shadow: inset 0px -3px 8px #6c757d;
-}
-
-.nav-headr {
   font-family: Berkshire, serif;
+}
+.custom-bg li {
+  padding: 0 2rem 0 2rem;
+}
+.custom-bg li a {
+  color: #ff0000;
+  font-weight: 400;
+  font-size: 1.2rem;
 }
 
 .nav-logo {
-  height: 8rem;
-  width: 11rem;
+  height: 7rem;
+  width: 8rem;
   z-index: 2;
-  margin: 1rem 10rem 1rem 10rem;
+  margin: 0.5rem 10rem 0.5rem 10rem;
 }
 
 /*# sourceMappingURL=all-page.css.map */
