@@ -11866,6 +11866,10 @@ textarea.form-control-lg {
   font-weight: 400;
   font-size: 1.2rem;
 }
+.custom-bg li a:hover {
+  box-shadow: 5px 5px 5px #ff0000;
+  border-radius: 10px;
+}
 
 .nav-logo {
   height: 7rem;
