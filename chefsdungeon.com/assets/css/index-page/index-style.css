@@ -11854,5 +11854,14 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.banner-1 {
+  height: 48rem;
+  width: 50rem;
+}
+
+.banner-2 {
+  height: 48rem;
+  width: 50rem;
+}
 
 /*# sourceMappingURL=index-style.css.map */
