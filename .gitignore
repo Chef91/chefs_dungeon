@@ -6,3 +6,11 @@ chefsdungeon.com/package-lock.json
 chefsdungeon.com/package.json
 
 chefsdungeon.com/test.html
+
+node_modules/
+
+package.json
+
+package-lock.json
+
+test.html
