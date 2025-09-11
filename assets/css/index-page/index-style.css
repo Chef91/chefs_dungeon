@@ -11855,17 +11855,18 @@ textarea.form-control-lg {
   }
 }
 .banner-1 {
-  height: 48rem;
+  background-color: #000;
+  height: 32rem;
   width: 50rem;
 }
 
 .banner-2 {
-  height: 48rem;
+  height: 32rem;
   width: 50rem;
 }
 
 .banner-3 {
-  height: 38rem;
+  height: 32rem;
   width: 50rem;
 }
 
