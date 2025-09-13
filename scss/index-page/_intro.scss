@@ -1,2 +1,17 @@
 @use '../custom' as *;
 
+.display-2  {
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+  &--intro  {
+    display: inline-block;
+    margin: 3rem 0 2rem 0;
+    font-family: serif;
+    font-size: 4rem;
+    font-weight: 700;
+  }
+  &--description  {
+    font-size: 1rem;
+    display: block;
+  }
+}
