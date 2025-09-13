@@ -11856,7 +11856,6 @@ textarea.form-control-lg {
 }
 .custom-bg {
   background-color: #292929;
-  font-family: Berkshire, serif;
 }
 .custom-bg li {
   padding: 0 2rem 0 2rem;
@@ -11865,6 +11864,7 @@ textarea.form-control-lg {
   color: #ff0000;
   font-weight: 400;
   font-size: 1.2rem;
+  font-family: Berkshire Swash, serif;
 }
 
 .nav-logo {

@@ -2,13 +2,13 @@
 
 .custom-bg  {
   background-color: $primary;
-  font-family: Berkshire, serif;
   li  {
     padding: 0 2rem 0 2rem;
     a  {
       color: $red;
       font-weight: 400;
       font-size: 1.2rem;
+      font-family: Berkshire Swash, serif;
     }
   }
 }
