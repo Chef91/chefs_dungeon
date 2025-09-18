@@ -22,6 +22,7 @@
     display: block;
     margin: 0.5rem 8rem 0.5rem 1rem;
     font-size: 1.2rem;
+    font-weight: 600;
     font-family: Felipa, serif;
     line-height: 2rem;
     color: $white;
@@ -33,4 +34,33 @@
   margin-left: 4rem;
   opacity: 0.7;
   border-radius: 0 0 10rem 8rem;
+}
+.feature-camp  {
+  margin: 5rem 0 0 4rem;
+  color: $secondary;
+  font-family: IM Fell English SC, serif;
+  font-size: 4rem;
+  font-weight: 700;
+}
+.feature-title  {
+  font-family: IM Fell English SC, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.feature-text  {
+  font-family: Felipa, serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.feature-btn  {
+  color: $secondary;
+  font-family: IM Fell English SC, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+.hof-img  {
+  border-radius: 0.3rem;
+  border: 2px solid $black;
+  height: 10rem;
+  width: 10rem;
 }

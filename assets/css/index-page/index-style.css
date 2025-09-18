@@ -11871,7 +11871,7 @@ textarea.form-control-lg {
 }
 
 .ct-custom {
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.95) 85%, rgba(52, 58, 64, 0.95) 100%);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.95) 85%, rgba(33, 37, 41, 0.95) 100%);
 }
 
 .display-2 {
@@ -11893,6 +11893,7 @@ textarea.form-control-lg {
   display: block;
   margin: 0.5rem 8rem 0.5rem 1rem;
   font-size: 1.2rem;
+  font-weight: 600;
   font-family: Felipa, serif;
   line-height: 2rem;
   color: #fff;
@@ -11904,6 +11905,40 @@ textarea.form-control-lg {
   margin-left: 4rem;
   opacity: 0.7;
   border-radius: 0 0 10rem 8rem;
+}
+
+.feature-camp {
+  margin: 5rem 0 0 4rem;
+  color: #ff0000;
+  font-family: IM Fell English SC, serif;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.feature-title {
+  font-family: IM Fell English SC, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.feature-text {
+  font-family: Felipa, serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.feature-btn {
+  color: #ff0000;
+  font-family: IM Fell English SC, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.hof-img {
+  border-radius: 0.3rem;
+  border: 2px solid #000;
+  height: 10rem;
+  width: 10rem;
 }
 
 /*# sourceMappingURL=index-style.css.map */
