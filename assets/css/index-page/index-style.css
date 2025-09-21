@@ -11913,11 +11913,12 @@ textarea.form-control-lg {
   font-family: IM Fell English SC, serif;
   font-size: 4rem;
   font-weight: 700;
+  text-decoration: underline;
 }
 
 .feature-title {
   font-family: IM Fell English SC, serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 700;
 }
 
@@ -11937,8 +11938,15 @@ textarea.form-control-lg {
 .hof-img {
   border-radius: 0.3rem;
   border: 2px solid #000;
-  height: 10rem;
-  width: 10rem;
+  height: 16rem;
+  width: 11rem;
+}
+
+.list-feat {
+  list-style: none;
+  font-family: serif;
+  font-size: 0.9rem;
+  line-height: 1.7rem;
 }
 
 /*# sourceMappingURL=index-style.css.map */
