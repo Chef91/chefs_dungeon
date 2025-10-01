@@ -11949,4 +11949,12 @@ textarea.form-control-lg {
   line-height: 1.7rem;
 }
 
+.ttrpg-about {
+  margin: 4rem 0 0 0;
+  padding: 0 15rem 0 0;
+}
+.ttrpg-about h2 {
+  margin-bottom: 3rem;
+}
+
 /*# sourceMappingURL=index-style.css.map */

@@ -1,1 +1,9 @@
 @use '../custom' as *;
+
+.ttrpg-about  {
+  margin: 4rem 0 0 0;
+  padding: 0 15rem 0 0;
+  h2  {
+    margin-bottom: 3rem;
+  }
+}
