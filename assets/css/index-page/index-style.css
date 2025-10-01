@@ -11949,12 +11949,59 @@ textarea.form-control-lg {
   line-height: 1.7rem;
 }
 
+#about-us {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
 .ttrpg-about {
-  margin: 4rem 0 0 0;
+  margin: 5rem 0 0 0;
   padding: 0 15rem 0 0;
 }
 .ttrpg-about h2 {
   margin-bottom: 3rem;
+  font-family: IM Fell English SC, serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.ttrpg-about p {
+  font-size: 1rem;
+}
+
+.ttrpg-links {
+  margin: 4rem 0 0 0;
+}
+.ttrpg-links h3 {
+  font-family: IM Fell English SC, serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+.ttrpg-links ul {
+  list-style: none;
+}
+
+.r20-img {
+  width: 7rem;
+  height: 7rem;
+}
+
+.r20-txt {
+  font-family: IM Fell English SC, serif;
+  font-size: 1.5rem;
+}
+
+.r20-lnk {
+  font-family: IM Fell English SC, serif;
+  font-size: 1.5rem;
+}
+
+.disc-img {
+  width: 7rem;
+  height: 7rem;
+}
+
+.disc-txt {
+  font-family: IM Fell English SC, serif;
+  font-size: 1.5rem;
 }
 
 /*# sourceMappingURL=index-style.css.map */
