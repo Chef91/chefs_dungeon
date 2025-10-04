@@ -11971,12 +11971,20 @@ textarea.form-control-lg {
   margin: 4rem 0 0 0;
 }
 .ttrpg-links h3 {
+  margin: 0 0 1rem 0;
   font-family: IM Fell English SC, serif;
   font-size: 2rem;
   font-weight: 500;
+  text-decoration: underline;
 }
 .ttrpg-links ul {
   list-style: none;
+}
+
+.links-cont {
+  margin: 0 0 3rem 0;
+  padding-bottom: 1.3rem;
+  border-bottom: 1px solid #000;
 }
 
 .r20-img {
@@ -11992,6 +12000,11 @@ textarea.form-control-lg {
 .dnd-img {
   width: 9rem;
   height: 7rem;
+}
+
+.g-img {
+  width: 9rem;
+  height: 9rem;
 }
 
 /*# sourceMappingURL=index-style.css.map */
