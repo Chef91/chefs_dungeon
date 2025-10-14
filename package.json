@@ -1,0 +1,19 @@
+{
+  "name": "chefsdungeon_website",
+  "version": "1.0.0",
+  "description": "chefs dungeon ttrpg website.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "author": "Gr8_Chef",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.90.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "autoprefixer": "^10.4.21",
+    "bootstrap": "^5.3.6"
+  }
+}
