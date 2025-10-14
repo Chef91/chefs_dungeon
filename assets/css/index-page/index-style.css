@@ -11987,4 +11987,9 @@ textarea.form-control-lg {
   border-bottom: 1px solid #000;
 }
 
+.game-card {
+  margin: 0;
+  padding: 0;
+}
+
 /*# sourceMappingURL=index-style.css.map */
