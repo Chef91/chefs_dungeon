@@ -34,10 +34,16 @@
 .links-cont  {
   margin: 0 0 3rem 0;
   padding-bottom: 1.3rem;
-  border-bottom: 1px solid $black;
 }
 //Game Buttons
 .game-card  {
   margin: 0;
   padding: 0;
+}
+.js-card  {
+  margin: 0 8.5rem 0 8.5rem;
+  border: 1px solid $black;
+  h4  {
+    font-family: IM Fell English SC, serif;
+  }
 }
