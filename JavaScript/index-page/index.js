@@ -7,7 +7,9 @@ const cards = {
   dnd: {
     image: 'images/Index/dnd.png',
     header: 'Dungeons & Dragons',
-    text: 'The worlds most famous tabletop role-playing game!'
+    text: 'This is the most popular (ttrpg) tabletop role-playing game out there.' +
+    ' This is a beginner friendly system, and our Dungeon Masters use the current 2024 rules.' +
+    ' Look on our campaign page to find your next Dungeons & Dragons adventure.'
   },
   cthulhu: {
     image: '',
