@@ -12006,4 +12006,23 @@ textarea.form-control-lg {
   font-size: 0.9rem;
 }
 
+#game-master {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.gm-header {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  font-family: IM Fell English SC, serif;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.gm-chef {
+  margin-bottom: 2rem;
+  font-family: IM Fell English SC, serif;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
 /*# sourceMappingURL=index-style.css.map */
