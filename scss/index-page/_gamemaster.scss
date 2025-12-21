@@ -1,7 +1,8 @@
 @use '../custom' as *;
+
 //Section
 #game-master  {
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  box-shadow: rgba(50, 50, 93, 0.115) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 .gm-header  {
   padding-top: 6rem;
@@ -10,9 +11,19 @@
   font-size: 4rem;
   font-weight: 600;
 }
+
+// Left Side
 .gm-chef  {
   margin-bottom: 2rem;
   font-family: IM Fell English SC, serif;
-  font-size: 2rem;
+  font-size: 2.3rem;
   font-weight: 600;
 }
+.chef-pic  {
+  height: 35rem;
+  width: 22rem;
+  border: 1px solid $black;
+  border-radius: 4rem;
+}
+
+//Right Side
