@@ -4,3 +4,22 @@
 #shepherd-section  {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
+.shep-head  {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  font-family: IM Fell English SC, serif;
+  font-size: 4rem;
+  font-weight: 600;
+}
+.rescue-gsd  {
+  margin: 2rem;
+  height: 45rem;
+  width: 30rem;
+  border: 3px solid $gray-700;
+  border-radius: 5rem;
+}
+.gsd-h3  {
+  font-family: IM Fell English SC, serif;
+  font-size: 2.5rem;
+  font-weight: 200;
+}
