@@ -1,6 +1,13 @@
 @use '../custom' as *;
 
 #footer-section  {
-  background-color: $black;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  border-top: 0.05rem solid $black;
+  box-shadow: rgba(50, 50, 93, 0.22) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.footer-container  {
+  h4  {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    font-family: serif;
+  }
 }

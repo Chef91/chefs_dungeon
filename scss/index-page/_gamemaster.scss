@@ -2,6 +2,7 @@
 
 //Section
 #game-master  {
+  border-top: 0.05rem solid $black;
   box-shadow: rgba(50, 50, 93, 0.115) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 .gm-header  {
@@ -20,8 +21,8 @@
   font-weight: 600;
 }
 .chef-pic  {
-  height: 41rem;
-  width: 30rem;
+  height: 20rem;
+  width: 20rem;
   border: 3px solid $gray-700;
   border-radius: 5rem;
 }
@@ -34,6 +35,7 @@
 }
 .gm-lk2  {
   height: auto;
+  width: 13rem;
 }
 .gm-lk2  {
   height: auto;
