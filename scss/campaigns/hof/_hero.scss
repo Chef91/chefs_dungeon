@@ -1,0 +1,11 @@
+@use '../../custom' as *;
+
+//hero image
+.hof-hero  {
+  height: 30rem;
+  width: 170rem;
+}
+//container
+.hero-contain  {
+  border-bottom: 1px solid $black;
+}
