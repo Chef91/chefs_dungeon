@@ -11855,12 +11855,27 @@ textarea.form-control-lg {
   }
 }
 .hof-hero {
-  height: 30rem;
+  height: 35rem;
   width: 170rem;
 }
 
 .hero-contain {
   border-bottom: 1px solid #000;
+}
+
+.hof-text1 h3 {
+  margin: 3rem 0 0.7rem 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 600;
+  font-size: 2.2rem;
+  text-decoration: underline;
+}
+.hof-text1 h4 {
+  margin: 3rem 0 0.7rem 0;
+  font-family: IM Fell English SC, serif;
+}
+.hof-text1 p {
+  font-size: 0.9rem;
 }
 
 /*# sourceMappingURL=hof-style.css.map */
