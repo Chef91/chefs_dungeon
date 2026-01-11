@@ -1,22 +1,55 @@
 @use '../../custom' as *;
 
-//container
+// background
+#info  {
+  border-top: 0.05rem solid $black;
+  box-shadow: rgba(50, 50, 93, 0.5) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+// container
 .hero-contain  {
   border-bottom: 1px solid $black;
 }
-.hof-text1  {
-  h3  {
-    margin: 3rem 0 0.7rem 0;
-    font-family: IM Fell English SC, serif;
-    font-weight: 600;
-    font-size: 2.2rem;
-    text-decoration: underline;
-  }
-  h4  {
-    margin: 3rem 0 0.7rem 0;
-    font-family: IM Fell English SC, serif;
-  }
-  p  {
-    font-size: 0.9rem;
-  }
+// left div
+// h3 header (top)
+.hdr-3 {
+  margin: 3rem 0 0 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 600;
+  font-size: 2.2rem;
+  text-decoration: underline;
+}
+// h4 header (top)
+.hdr-4  {
+  margin: 0 0 0 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 200;
+  font-size: 1.3rem;
+}
+// h4 about campaign
+.hdr-5  {
+  margin: 3rem 0 0 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 200;
+  font-size: 2.2rem;
+  text-decoration: underline;
+}
+// h4 expectations
+.hdr-6  {
+  margin: 3rem 0 1rem 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 200;
+  font-size: 1.7rem;
+}
+// right div
+.hof-warrior  {
+  height: 40rem;
+  width: 30rem;
+}
+.hdr-7  {
+  margin: 3rem 0 1rem 0;
+  font-family: IM Fell English SC, serif;
+  font-weight: 400;
+  font-size: 2rem;
+  text-decoration: underline;
 }
